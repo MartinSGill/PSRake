@@ -1,5 +1,6 @@
 PSRake
 ------
+[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](http://opensource.org/licenses/MIT)
 
 Tab-Expansion (completion) for [rake](https://github.com/ruby/rake).
 
