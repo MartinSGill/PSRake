@@ -1,7 +1,7 @@
 PSRake
 ------
 
-Tab-Expansion (completion) for [rake][https://github.com/ruby/rake].
+Tab-Expansion (completion) for [rake](https://github.com/ruby/rake).
 
 Support 
 * long-opts (--)
